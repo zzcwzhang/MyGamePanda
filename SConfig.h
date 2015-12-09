@@ -28,6 +28,7 @@
 #define NAMESPACE_ZJG_BEGIN namespace buttlesfly{
 #define NAMESPACE_ZJG_END }
 #define USING_SG_GAME using namespace buttlesfly
+#define ssss "ssss"
 USING_NS_CC;
 typedef signed char cbyte; 
 typedef unsigned char unbyte;
